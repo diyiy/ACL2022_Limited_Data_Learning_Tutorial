@@ -11,4 +11,17 @@ Natural Language Processing (NLP) has achieved great progress in the past decade
 [Colin Raffel](https://colinraffel.com/), University of North Carolina Chapel Hill/Hugging Face
 
 ## Reading Lists
-TBD
+Edunov, Sergey, Myle Ott, Michael Auli, and David Grangier. "Understanding back-translation at scale." arXiv preprint arXiv:1808.09381 (2018).
+
+Lample, Guillaume, and Alexis Conneau. "Cross-lingual language model pretraining." arXiv preprint arXiv:1901.07291 (2019).
+
+Chen, Jiaao, Zichao Yang, and Diyi Yang. "Mixtext: Linguistically-informed interpolation of hidden space for semi-supervised text classification." arXiv preprint arXiv:2004.12239 (2020).
+
+Morris, John X., Eli Lifland, Jin Yong Yoo, Jake Grigsby, Di Jin, and Yanjun Qi. "Textattack: A framework for adversarial attacks, data augmentation, and adversarial training in nlp." arXiv preprint arXiv:2005.05909 (2020).
+
+Chau, Ethan C., Lucy H. Lin, and Noah A. Smith. "Parsing with multilingual BERT, a small corpus, and a small treebank." arXiv preprint arXiv:2009.14124 (2020).
+
+Du, Jingfei, Edouard Grave, Beliz Gunel, Vishrav Chaudhary, Onur Celebi, Michael Auli, Ves Stoyanov, and Alexis Conneau. "Self-training improves pre-training for natural language understanding." arXiv preprint arXiv:2010.02194 (2020).
+
+Chen, Jiaao, Derek Tam, Colin Raffel, Mohit Bansal, and Diyi Yang. "An empirical survey of data augmentation for limited data learning in nlp." arXiv preprint arXiv:2106.07499 (2021).
+
