@@ -10,9 +10,15 @@ Natural Language Processing (NLP) has achieved great progress in the past decade
 
 [Colin Raffel](https://colinraffel.com/), University of North Carolina Chapel Hill/Hugging Face
 
-## Slides
+## Time and Location
+9:30am - 1:00pm, Dublin Timezone, May 22nd, 2022
 
-[link to slides](https://drive.google.com/file/d/1tjeZz8xbEL4peXgUTcucO-4Kaz4Vm-rm/view?usp=sharing)
+On-site Room: The Liffey A
+
+Virtual Link: See Underline Tutorial 5 for the Zoom link
+
+## Slides
+[Link to Slides](https://drive.google.com/file/d/1tjeZz8xbEL4peXgUTcucO-4Kaz4Vm-rm/view?usp=sharing)
 
 ## Reading Lists
 Edunov, Sergey, Myle Ott, Michael Auli, and David Grangier. "Understanding back-translation at scale." arXiv preprint arXiv:1808.09381 (2018).
